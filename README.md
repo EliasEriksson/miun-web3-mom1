@@ -6,7 +6,7 @@ The goal of this assignment is to make a github page and write a README.md file 
 Link to the [github page](https://eliaseriksson.github.io/miun-web3-mom1/)
 
 The questions include some git concepts and commands.
-### Concepts
+## Concepts
 1. Workspace
 2. Staging area
 3. Local repository
@@ -14,7 +14,7 @@ The questions include some git concepts and commands.
 5. Branch
 6. Merge
 
-### Commands
+## Commands
 * git config
 * git init
 * git status
@@ -26,3 +26,12 @@ The questions include some git concepts and commands.
 * git merge
 * git fetch
 * git log
+
+## Download this repository
+To Download this repository simply run `git clone https://github.com/EliasEriksson/miun-web3-mom1.git`
+
+## URL to my profiles README.md repo
+https://github.com/EliasEriksson/EliasEriksson
+
+## URL to this repositorys github Page
+https://eliaseriksson.github.io/miun-web3-mom1/
